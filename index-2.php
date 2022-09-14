@@ -454,7 +454,7 @@ function getAllactive($table)
                   <div class="iq-card iq-card-block iq-card-stretch iq-card-height">
                      <div class="iq-card-header d-flex justify-content-between align-items-center position-relative">
                         <div class="iq-header-title">
-                           <h4 class="card-title mb-0">Ном үзэх</h4>
+                           <h4 class="card-title mb-0">Ном үзэх hahaahahahahh</h4>
                         </div>
                         <div class="iq-card-header-toolbar d-flex align-items-center">
                            <a href="category.php" class="btn btn-sm btn-primary view-more">View More</a>
